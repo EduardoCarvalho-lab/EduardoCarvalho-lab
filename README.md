@@ -50,7 +50,7 @@ Aqui estão algumas das ferramentas e linguagens com as quais tenho afinidade ou
 
 * **[ProjetoNeki](SEU_LINK_AQUI)**: Sistema back-end desenvolvido em Java.
 * **[ProjetoNekiFrontEnd](SEU_LINK_AQUI)**: Interface web moderna e interativa desenvolvida em JavaScript.
-* **[Projetos DevClub](SEU_LINK_AQUI)**: Coleção de desafios e projetos práticos focados em desenvolvimento web.
+* **[Projetos DevClub](SEU_LINK_AQUI)**: (Atualmente em desenvolvimento) Coleção de desafios e projetos práticos focados em desenvolvimento web.
 
 ---
 
